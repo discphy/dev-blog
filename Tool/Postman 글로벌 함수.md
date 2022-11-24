@@ -1,5 +1,7 @@
 # Postman 글로벌 함수 
 
+![Postman](../static/image/postman.jpeg)
+
 `Postman`을 사용 하다가..
 
 여러  `HTTP request` 의  `Pre-request Script`에서 공통적으로 호출하는 **함수**가 필요해(반복이 제일 싫다.. 🤣) 내용을 찾아보다 좋은 방법을 발견하여 간단하게 공유합니다!! 
